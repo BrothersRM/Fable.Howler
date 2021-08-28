@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "QtrP5+T7E7cRNbWW20O9uFDXaim5htlSkRpGTH3H0nne+PJM/PaW9tx5bjqz0LpiaRDbo/v3jBBHyXrjAbEcKw==",
+  "success": true,
+  "projectFilePath": "/mnt/extended/source/personal/Fable.Howler/Fable.Howler/Fable.Howler.fsproj",
+  "expectedPackageFiles": [
+    "/home/ryan/.nuget/packages/fable.core/3.2.3/fable.core.3.2.3.nupkg.sha512",
+    "/home/ryan/.nuget/packages/fsharp.core/5.0.0/fsharp.core.5.0.0.nupkg.sha512",
+    "/home/ryan/.nuget/packages/microsoft.aspnetcore.app.ref/5.0.0/microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

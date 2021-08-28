@@ -1,0 +1,10 @@
+/mnt/extended/source/personal/Fable.Howler/Fable.Howler/bin/Debug/net5.0/Fable.Howler.deps.json
+/mnt/extended/source/personal/Fable.Howler/Fable.Howler/bin/Debug/net5.0/Fable.Howler.dll
+/mnt/extended/source/personal/Fable.Howler/Fable.Howler/bin/Debug/net5.0/Fable.Howler.pdb
+/mnt/extended/source/personal/Fable.Howler/Fable.Howler/bin/Debug/net5.0/Fable.Howler.xml
+/mnt/extended/source/personal/Fable.Howler/Fable.Howler/obj/Debug/net5.0/Fable.Howler.fsprojAssemblyReference.cache
+/mnt/extended/source/personal/Fable.Howler/Fable.Howler/obj/Debug/net5.0/Fable.Howler.AssemblyInfoInputs.cache
+/mnt/extended/source/personal/Fable.Howler/Fable.Howler/obj/Debug/net5.0/Fable.Howler.AssemblyInfo.fs
+/mnt/extended/source/personal/Fable.Howler/Fable.Howler/obj/Debug/net5.0/Fable.Howler.dll
+/mnt/extended/source/personal/Fable.Howler/Fable.Howler/obj/Debug/net5.0/Fable.Howler.xml
+/mnt/extended/source/personal/Fable.Howler/Fable.Howler/obj/Debug/net5.0/Fable.Howler.pdb
